@@ -1,0 +1,17 @@
+Hotel Management System
+
+
+
+Step 1: 
+    Initial Steps
+    1:Setup framework
+    2:AdminLTE3
+    3:Database Setup
+
+Step 2:
+     1:Customer
+     2:Rooms
+     3:Inventory
+     4:Staff
+     5:Users
+
